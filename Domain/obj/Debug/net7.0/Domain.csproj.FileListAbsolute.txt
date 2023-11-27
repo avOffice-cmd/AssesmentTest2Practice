@@ -1,0 +1,11 @@
+C:\Users\anchalvarma\source\repos\AssesmentTest2Practice\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\anchalvarma\source\repos\AssesmentTest2Practice\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\anchalvarma\source\repos\AssesmentTest2Practice\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\anchalvarma\source\repos\AssesmentTest2Practice\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anchalvarma\source\repos\AssesmentTest2Practice\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\anchalvarma\source\repos\AssesmentTest2Practice\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\anchalvarma\source\repos\AssesmentTest2Practice\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\anchalvarma\source\repos\AssesmentTest2Practice\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\anchalvarma\source\repos\AssesmentTest2Practice\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\anchalvarma\source\repos\AssesmentTest2Practice\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\anchalvarma\source\repos\AssesmentTest2Practice\Domain\obj\Debug\net7.0\ref\Domain.dll
