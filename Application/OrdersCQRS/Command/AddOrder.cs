@@ -34,13 +34,14 @@ namespace Application.OrdersCQRS.Command
                   DeliveryCity = request._addOrderDTO.DeliveryCity,
                   OrderStatus = request._addOrderDTO.OrderStatus,
                   CustomerId = (int)request._addOrderDTO.CustomerId,
+                  InvoiceId = "44444",
                   CreatedBy = "Admin",
                   CreatedDate = DateTime.Now,
                   IsActive = true
 
             };
 
-            _context.Customers.Add(addOrder);
+            _context.Orders.Add(addOrder);
 
             await _context.SaveChangesAsync(cancellationToken);
 

@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace Application.DTOs.CustomerDTO
 {
-    public class UpdateCustomerDTO
+    public class ViewCustomerDTO
     {
-        public int CustomerId { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
-       
+        public string Email { get; set; }
+
+
+        public string PhoneNumber { get; set; }
 
     }
 }
